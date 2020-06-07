@@ -5,4 +5,10 @@
     <string name="find_a_team">Find a team in your city and beat \n
         the others</string>
     <string name="get_started">GET STARTED</string>
+    <string name="desired_league">Desired League:</string>
+    <string name="men_button"> Men </string>
+    <string name="coed_button"> Co-ed </string>
+    <string name="women_button"> Women </string>
+    <string name="next_button"> Next </string>
+
 </resources>
